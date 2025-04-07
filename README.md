@@ -1,6 +1,6 @@
 # 🎓 Student Record System
 
-A simple Python-based Student Record System that allows you to manage students, courses, and grades using a single script. Perfect for small-scale academic management tasks or as a beginner-friendly programming project.
+A simple Python-based Student Record System that allows you to manage students, courses, and grades using a python script. 
 
 ## ✅ Features
 
