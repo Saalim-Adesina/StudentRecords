@@ -32,7 +32,7 @@ student-record/
 
 1. **Clone or download the project folder:**
    ```bash
-   git clone [https://github.com/Saalim-Adesina/StudentRecords.git](https://github.com/Saalim-Adesina/StudentRecords.git)
+   git clone https://github.com/Saalim-Adesina/StudentRecords.git
    cd StudentRecords
    ```
 
